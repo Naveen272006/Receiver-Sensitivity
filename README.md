@@ -59,6 +59,11 @@ Steps:
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
+
+![receiver sensitivity](https://github.com/user-attachments/assets/a675751d-facc-4654-bd81-438ce0414b2c)
+
+![receiver](https://github.com/user-attachments/assets/7c2bf454-e4f8-41e0-aee4-338204d05b76)
+
 ---
 
 ## Report
