@@ -75,4 +75,7 @@ Your report should include:
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
 
+## Result
+  Thus the Experiment was successfully completed and the output is verified.
+  
 ---
